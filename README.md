@@ -1,2 +1,3 @@
 # apna-collage
-this is my first get reposetery
+this is my first get reposetery.
+auther-rushda memon
